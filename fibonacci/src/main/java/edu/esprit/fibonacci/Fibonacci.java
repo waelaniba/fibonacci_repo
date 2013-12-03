@@ -4,7 +4,7 @@ public class Fibonacci {
 	
 	
 	public long fibo(long n){
-		
+		//iuiou
 		if(n <= 1)
 			return n;
 		
